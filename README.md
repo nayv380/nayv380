@@ -1,5 +1,5 @@
 <p align="center">
-<img width="800" height="1000" alt="image" src="https://github.com/nayv380/Nayara_Ventura/blob/main/nay.png" /> <hr/>
+<img width="800" height="1000" alt="image" src="https://github.com/nayv380/nayv380/blob/main/nay.png" /> <hr/>
 <p>
 
 <h1 align="center" style="color:#00fff7;"> Nayara Ventura</h1>
