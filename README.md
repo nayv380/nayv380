@@ -11,7 +11,7 @@
 
 # 👩‍💻 Sobre mim
 
-Olá! Sou Nayara Ventura, apaixonada por tecnologia, inovação e por conectar pessoas ao futuro digital. Atualmente, curso o 6º período de Engenharia de Software, onde exploro o universo do desenvolvimento de soluções inteligentes, práticas e criativas.
+Olá! Sou Nayara Ventura, apaixonada por tecnologia, inovação e por conectar pessoas ao futuro digital. Atualmente, curso o 7º período de Engenharia de Software, onde exploro o universo do desenvolvimento de soluções inteligentes, práticas e criativas.
 
 Minha missão vai além de programar: **crio pontes entre pessoas e tecnologia**, simplificando o complexo e entregando resultados que encantam usuários e impulsionam negócios. Acredito que cada projeto é um laboratório vivo de inovação, onde curiosidade e coragem se transformam em experiências únicas.
 
