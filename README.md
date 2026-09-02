@@ -1,14 +1,18 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Nayara%20Ventura%20Candido&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Data%20Science%20%26%20IoT&descAlignY=55&descSize=18)
+<img src="https://raw.githubusercontent.com/nayv380/nayv380/main/assets%20nayara/Nay.png" width="100%" alt="Nayara Ventura Candido" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=650&lines=Engenheira+de+Software+%7C+Full+Stack+Developer;Front-End+%26+Backend+Team+Leader;Data+Science+%2B+IoT+Enthusiast;Contagem%2C+Minas+Gerais+-+Brasil" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Engenheira+de+Software+%7C+Full+Stack+Developer;Front-End+%26+Backend+Team+Leader;Data+Science+%2B+IoT+Enthusiast;Contagem%2C+Minas+Gerais+-+Brasil" alt="Typing SVG" />
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN-AQUI)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO_GITHUB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayara-ventura-01134936a)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayaravti.380@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nayv380)
+
+<br>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00F0FF,50:7B2FF7,100:F107A3)
 
 </div>
 
@@ -104,9 +108,9 @@ Estruturação de regras de negócio, modelagem de dados e desenvolvimento de AP
 <br>
 
 ![IoT](https://img.shields.io/badge/IoT_%26_Microcontroladores-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Sensores](https://img.shields.io/badge/Sensores_e_Automacao-00979D?style=for-the-badge&logoColor=white)
+![Sensores](https://img.shields.io/badge/Sensores_e_Automacao-7B2FF7?style=for-the-badge&logoColor=white)
 ![Testes de Software](https://img.shields.io/badge/Testes_Automatizados-25A162?style=for-the-badge&logoColor=white)
-![Redes e Hardware](https://img.shields.io/badge/Redes_%26_Hardware-4B5563?style=for-the-badge&logoColor=white)
+![Redes e Hardware](https://img.shields.io/badge/Redes_%26_Hardware-0EA5E9?style=for-the-badge&logoColor=white)
 
 </details>
 
@@ -129,7 +133,7 @@ Ecossistema Full Stack completo (**Django + React/TypeScript/Tailwind**) para ge
 
 `Django` `React` `TypeScript` `Tailwind CSS` `DRF`
 
-🔗 [Ver repositório](https://github.com/SEU_USUARIO_GITHUB/latinaton-platform)
+🔗 [Ver repositório](https://github.com/nayv380/latinaton-platform)
 
 ---
 
@@ -138,7 +142,7 @@ Modelo de Deep Learning aplicando **Redes Neurais Convolucionais (CNN)** com **T
 
 `Python` `MobileNet` `OpenCV` `Transfer Learning`
 
-🔗 [Ver repositório](https://github.com/SEU_USUARIO_GITHUB/cat-x-dog-transfer-learning)
+🔗 [Ver repositório](https://github.com/nayv380/cat-x-dog-transfer-learning)
 
 ---
 
@@ -147,7 +151,7 @@ Projeto de tratamento, limpeza e análise exploratória de dados (EDA) com **Pan
 
 `Python` `Pandas` `NumPy` `Power BI`
 
-🔗 [Ver repositório](https://github.com/SEU_USUARIO_GITHUB/data-science-analysis)
+🔗 [Ver repositório](https://github.com/nayv380/data-science-analysis)
 
 ---
 
@@ -156,7 +160,7 @@ Aplicações com sensores e microcontroladores integrando hardware e software em
 
 `IoT` `Microcontroladores` `Sensores` `Automação`
 
-🔗 [Ver repositório](https://github.com/SEU_USUARIO_GITHUB/iot-automation-projects)
+🔗 [Ver repositório](https://github.com/nayv380/iot-automation-projects)
 
 <br>
 
@@ -189,10 +193,10 @@ Front-End e React — *Instituto Federal de Minas Gerais (IFMG)*
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" width="42%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=nayv380&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayv380&layout=compact&theme=radical&hide_border=true" width="42%" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nayv380&theme=radical&hide_border=true" width="60%" alt="GitHub Streak" />
 
 </div>
 
@@ -204,12 +208,12 @@ Front-End e React — *Instituto Federal de Minas Gerais (IFMG)*
 
 💡 **Aberta a novas oportunidades e colaborações em Full Stack Development, Data Science e IoT.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN-AQUI)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO_GITHUB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayara-ventura-01134936a)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayaravti.380@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nayv380)
 
 <br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00F0FF,50:7B2FF7,100:F107A3&section=footer)
 
 </div>
