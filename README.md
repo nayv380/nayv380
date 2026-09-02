@@ -212,7 +212,7 @@ Front-End e React — *Instituto Federal de Minas Gerais (IFMG)*
 
 <div align="center">
 
-💡 **Aberta a novas oportunidades e colaborações em Full Stack Development, Data Science, QA e demais areas correlacionadas.**
+💡 **Aberta a novas oportunidades e colaborações em Full Stack Development, Data Science, QA e demais áreas correlacionadas.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayara-ventura-01134936a)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayaravti.380@gmail.com)
