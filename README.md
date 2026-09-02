@@ -133,7 +133,7 @@ Ecossistema Full Stack completo (**Django + React/TypeScript/Tailwind**) para ge
 
 `Django` `React` `TypeScript` `Tailwind CSS` `DRF`
 
-🔗 [Ver repositório](https://github.com/nayv380/latinaton-platform)
+🔗 [Ver repositório](https://github.com/nayv380/Projeto_IFMG)
 
 ---
 
