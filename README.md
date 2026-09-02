@@ -193,6 +193,10 @@ Front-End e React — *Instituto Federal de Minas Gerais (IFMG)*
 
 <div align="center">
 
+![divider](https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00F0FF,50:7B2FF7,100:F107A3)
+
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=nayv380&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayv380&layout=compact&theme=radical&hide_border=true" width="42%" alt="Top Languages" />
 
