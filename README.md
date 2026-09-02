@@ -169,7 +169,7 @@ Aplicações com sensores e microcontroladores integrando hardware e software em
 **🎓 Graduação**
 Bacharelado em Engenharia de Software — *Universidade Anhanguera*
 
-**🎓 Pós-Especialização**
+**🎓 Técnico**
 Front-End e React — *Instituto Federal de Minas Gerais (IFMG)*
 
 **📜 Certificações e Cursos Livres**
