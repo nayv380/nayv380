@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/nayv380/nayv380/main/assets%20nayara/Nay.png" width="100%" alt="Nayara Ventura Candido" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Engenheira+de+Software+%7C+Full+Stack+Developer;Front-End+%26+Backend+Team+Leader;Data+Science+%2B+IoT+Enthusiast;Contagem%2C+Minas+Gerais+-+Brasil" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Engenheira+de+Software+%7C+Full+Stack+Developer;Front-End+%26+Backend+Team+Leader;Data+Science+%2B+IoT+Enthusiast;Belo+Horizonte%2C+MG+-+Brasil" alt="Typing SVG" />
 
 <br>
 
@@ -31,7 +31,7 @@ Tenho experiência de **liderança técnica internacional** em hackathons, coord
 🌱 Explorando:                 IoT, automação e Machine Learning (Transfer Learning)
 🤝 Aberta a colaborar em:      projetos Full Stack, Data Science e Hackathons
 🌎 Idiomas:                    Português (nativo) · Inglês (intermediário) · Espanhol (intermediário)
-📍 Localização:                Contagem, Minas Gerais - Brasil
+📍 Localização:                Belo Horizonte, MG - Brasil
 ```
 
 <br>
@@ -197,8 +197,8 @@ Front-End e React — *Instituto Federal de Minas Gerais (IFMG)*
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nayv380&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayv380&layout=compact&theme=radical&hide_border=true" width="42%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=nayv380&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayv380&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="42%" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayv380&theme=radical&hide_border=true" width="60%" alt="GitHub Streak" />
 
