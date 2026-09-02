@@ -5,79 +5,61 @@
 </p>
 <hr>
 
-<h3 align="center">Transformando ideias em código e aprendizado em inovação 🚀</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Olá,%20Mundo!%20👋%20Eu%20sou%20a%20Nayara&fontSize=30&fontAlignY=35&desc=Software%20Engineer%20&%20Lead%20Front-End&descSize=16&descAlignY=55" />
+</div>
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nayv380)
+  [![Email](https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+
+</div>
 
 ---
 
-# 👩‍💻 Sobre mim
+### 🚀 Sobre Mim
 
-Olá! Sou Nayara Ventura, apaixonada por tecnologia, inovação e por conectar pessoas ao futuro digital. Atualmente, curso o 7º período de Engenharia de Software, onde exploro o universo do desenvolvimento de soluções inteligentes, práticas e criativas.
+Sou **Engenheira de Software** graduada pela Universidade Anhanguera, com pós-especialização em Front-End e React pelo IFMG, e certificada como *Master Creative in Full Stack Programming IA* pela Infinity School. 
 
-Minha missão vai além de programar: **crio pontes entre pessoas e tecnologia**, simplificando o complexo e entregando resultados que encantam usuários e impulsionam negócios. Acredito que cada projeto é um laboratório vivo de inovação, onde curiosidade e coragem se transformam em experiências únicas.
-
-Do front-end ao back-end, da prototipação ao deployment, **sou movida por desafios e pela busca constante de evolução**. Na academia, adquiro bases sólidas em sistemas inteligentes, bancos de dados robustos e estratégias de desenvolvimento. No mundo real, aplico tudo isso em mentorias, projetos pessoais e colaborações que conectam propósito, design e lógica.
-
-> **Se você busca uma mente inovadora, colaborativa e pronta para criar impacto — seja como dev, mentora ou exploradora de dados — conecte-se comigo!**
+Atualmente atuo com suporte técnico, operações administrativas e desenvolvimento de soluções tecnológicas na F5 Informática. Possuo forte vivência em projetos de impacto internacional — como a liderança de Front-End no **Latinaton**, um hackathon integrando equipes do Brasil, Colômbia e México em parceria com IFMG, CEPEDI e Softex. Sou apaixonada por transformar ideias em aplicações web robustas, escaláveis e com excelente experiência de usuário (UX).
 
 ---
 
-# 🚀 Meu Universo de Inovação
+### 🛠️ Tecnologias e Ferramentas
 
-Seja bem-vindo(a) ao meu **hub futurista**: um espaço onde tecnologia, criatividade e aprendizagem andam de mãos dadas. Aqui, cada repositório conta uma história de evolução, cada projeto é uma janela para o novo.
-
-### O que você encontra por aqui:
-
-- **Projetos autorais:** Experimentos que unem front-end, back-end e muita inovação.
-- **Mentorias & Colaborações:** Iniciativas que aceleram o crescimento coletivo na tecnologia.
-- **Conteúdo & Compartilhamento:** Dicas, práticas e reflexões para transformar a maneira de aprender e ensinar.
-- **Projetos em Data Science:** Exploração, análise e visualização de dados com foco em impacto.
-
-> 💡 **Este ambiente está sempre em evolução — pronto para inspirar, desafiar e criar conexões reais.**
-
-Fique à vontade para explorar, interagir e somar nessa jornada tecnológica!
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Front-End & Mobile** | `React`, `TypeScript`, `JavaScript (ES6+)`, `HTML5`, `CSS3`, `Tailwind CSS`, `React Native`, `Flutter` |
+| **Back-End & APIs** | `Python`, `Django`, `Django REST Framework`, `Node.js` |
+| **Banco de Dados & Dados** | `SQL`, `Pandas`, `NumPy` |
+| **UI/UX & Ferramentas** | `Figma`, `Git`, `GitHub`, `Android Studio`, `Vite` |
 
 ---
 
-# 🛠️ Meu Super Kit de Habilidades
+### 🌐 Destaque de Projeto Internacional
 
-**Linguagens de Programação:**  
-HTML5 • CSS3 • JavaScript • TypeScript • Python • PHP
-
-**Frameworks & Bibliotecas:**  
-React • Node.js • Bootstrap
-
-**Bancos de Dados:**  
-MySQL • MongoDB
-
-**Ferramentas de Desenvolvimento:**  
-Git • GitHub • VS Code • Docker • Postman • Linux
-
-**Design & UX/UI:**  
-Figma • Bootstrap
-
-**Data Science & Machine Learning:**  
-Jupyter • Pandas • NumPy • Matplotlib
+#### 🏆 **[Plataforma de Gestão de Hackathons (Latinaton)](https://github.com/nayv380/Projeto_IFMG)**
+* **O papel:** **Lead Front-End** responsável pela arquitetura de interface, prototipagem de fluxos (UI/UX) e integração de APIs globais.
+* **O contexto:** Ecossistema Full Stack avançado (Django + React/TypeScript/Tailwind) desenvolvido para gerenciar maratonas de inovação e competições tecnológicas de escala internacional entre Brasil, Colômbia e México.
+* **Principais recursos:** Módulos de gestão de eventos, formação autônoma de equipes multiculturais, submissão de projetos em tempo real e painéis administrativos customizados.
 
 ---
 
-# 🌟 Projetos em Destaque
+### 📊 Estatísticas do GitHub
 
-- **Full Stack Infinity School:** Projetos inovadores em React, Node.js, Python e MySQL, com foco em solução prática.
-- **Mini Cursos em Python:** Exemplos e workshops para acelerar o aprendizado e inspirar novas jornadas.
-- **Landing Pages Temáticas:** Design responsivo e interativo, aplicando o melhor do UX/UI.
-- **Data Science Pessoal:** Análise de dados e visualizações que contam histórias.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nayv380&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub da Nayara" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayv380&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" />
+</div>
 
-> 🚀 **Explore meus repositórios e veja a inovação ganhar forma!**
-
----
-
-# 🤝 Conecte-se comigo
-
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
-- [GitHub](https://github.com/DevWizardMarcos/Git-Nayara)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayv380&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-<p align="center">
-  <b>Pronta para novos desafios, colaborações e oportunidades. Vamos inovar juntos?</b>
-</p>
+<div align="center">
+  <i>"Transformando desafios complexos em código limpo, funcional e centrado no usuário."</i>
+</div>
