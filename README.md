@@ -20,9 +20,9 @@
 
 ## 🎯 Sobre mim
 
-Sou **Engenheira de Software** formada pela **Universidade Anhanguera**, com pós-especialização em **Front-End e React** pelo **IFMG**, atuando na construção de soluções **Full Stack** com forte orientação a dados e a produtos conectados (**IoT**).
-
-Combino base sólida em desenvolvimento web moderno (React, Django, TypeScript) com habilidades em **Data Science** (Pandas, NumPy, Power BI, Transfer Learning) e em **infraestrutura e hardware** — hoje aplicadas na prática em minha atuação em suporte técnico, atendimento e operações na **F5 Informática Ltda.**, onde desenvolvo diariamente uma visão de ponta a ponta: do código à infraestrutura que o sustenta.
+Sou **Engenheira de Software** formada pela Anhanguera, com aprimoramentos pela **IFMG**, e histórico sólido em projetos acadêmicos, práticos e de alto impacto. Comprovada experiência em **liderança técnica de equipes de front-end e back-end** sob pressão em ambientes de Hackathon.
+Perfil multidisciplinar que vai muito além do código, unindo desenvolvimento **Full Stack**, **Data Science** e forte bagagem em **infraestrutura de TI**, administração e análise de dados (Power BI). 
+Sólida capacidade de atuação **end-to-end**, desde a **análise**, **arquitetura** e **desenvolvimento de sistemas** até a entrega de soluções inovadoras e orientadas a resultados de alto impacto para o negócio.
 
 Tenho experiência de **liderança técnica internacional** em hackathons, coordenando equipes multidisciplinares na entrega de produtos completos sob prazo — do wireframe ao deploy.
 
@@ -197,10 +197,12 @@ Front-End e React — *Instituto Federal de Minas Gerais (IFMG)*
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nayv380&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayv380&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="42%" alt="Top Languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayv380&theme=radical&hide_border=true" width="60%" alt="GitHub Streak" />
+
+<br><br>
+
+![Visitas ao perfil](https://komarev.com/ghpvc/?username=nayv380&style=for-the-badge&color=7B2FF7&label=Visitas+ao+perfil)
+![Seguidores](https://img.shields.io/github/followers/nayv380?style=for-the-badge&logo=github&logoColor=white&color=00F0FF&label=Seguidores&labelColor=0d1117)
 
 </div>
 
@@ -210,7 +212,7 @@ Front-End e React — *Instituto Federal de Minas Gerais (IFMG)*
 
 <div align="center">
 
-💡 **Aberta a novas oportunidades e colaborações em Full Stack Development, Data Science e IoT.**
+💡 **Aberta a novas oportunidades e colaborações em Full Stack Development, Data Science, QA e demais areas correlacionadas.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayara-ventura-01134936a)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayaravti.380@gmail.com)
